@@ -1,0 +1,260 @@
+#tabWelcome tr {
+	height: 50px;
+	font-size: 15px;
+}
+
+#tabWelcome td {
+	font-weight: bold;
+}
+
+img {
+	border: 0px !important;
+}
+
+#btnUpload {
+	font-size: 18px;
+	height: 30px;
+}
+
+#lg_Job_Category_ID {
+	width: 185px !important;
+}
+
+#dateDeb,#dateFin,#strUserEmails {
+	width: 100px !important;
+}
+
+table.tabduplicate tr {
+	border-bottom-style: dashed !important;
+	border-bottom-color: black !important;
+	border-bottom-width: 2px !important;
+}
+
+table.tabduplicate tr td h3 {
+	text-transform: none !important;
+}
+
+table.tabduplicate tr td {
+	font-size: 14px;
+	height: 50px;
+}
+
+td.td1 {
+	text-align: left;
+	width: 100px;
+}
+
+td.td11 {
+	text-align: left;
+}
+
+td.td22 {
+	text-align: center;
+}
+
+td.td2 {
+	text-align: center;
+	width: 100px;
+}
+
+th.colVgrid {
+	
+}
+
+#strAcceptTitle,#strRejectTitle {
+	position: relative;
+	width: 300px !important;
+	padding: 0px 0px 0px 0px;
+}
+
+#tabAcceptMessage {
+	text-align: left !important;
+}
+
+#tabRejectMessage {
+	text-align: left !important;
+}
+
+#strRejectMessage {
+	position: relative;
+	width: 100% !important;
+}
+
+#btnSearch {
+	background: none;
+	border: none;
+}
+
+table#tabViewCV {
+	
+}
+
+#tdEmail {
+	width: 100px !important;
+}
+
+#tdButtonUpload {
+	text-align: center;
+}
+
+#tdTalentBank {
+	width: 100%;
+	text-align: center !important;
+	font-family: 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	margin: 0px 0px 20px 0px;
+	font-size: 4.1em;
+	font-weight: bold;
+}
+
+#tdLogout {
+	text-align: left !important;
+	width: 60%;
+}
+
+#tdLogoImg2 {
+	width: 40%;
+	padding: 10px 0 0;
+	text-align: right;
+}
+
+#tdLogoImg {
+	width: 100%;
+	padding: 10px 0 0;
+	text-align: right;
+}
+
+#imgLogo {
+	width: 235.8px;
+	height: 75.05px;
+}
+
+.wLabel {
+	color: #555555 !important;
+	font-family: Trebuchet MS, verdana, Georgia !important;
+	width: 200px;
+	text-align: left;
+	vertical-align: top;
+	padding: 0px 0px 0px 25px;
+}
+#tabViewCV td
+{
+padding: 20px 0px 0px 0px;	
+}
+.wInput {
+	vertical-align: top;
+}
+
+.lblDescription {
+	font-style: italic !important;
+	font-size: 12px !important;
+}
+
+.saveBouton {
+	background-image: url("images/save.gif");
+	width: 80px;
+	height: 31px;
+	border: none;
+}
+
+.searchButton {
+	background-image: url("images/search.gif");
+	width: 80px;
+	height: 31px;
+	border: none;
+
+}
+
+.popUpwindow {
+	color: #555555 !important;
+	font-family: Trebuchet MS, verdana, Georgia !important;
+	font-size: 15px !important;
+}
+
+h2.widgettitle {
+	background-color: #F3F7FA;
+	border-top: 2px solid #CFE4F2;
+	font-family: 'Lucida Grande', Sans-Serif;
+	font-size: 1.2em;
+	padding: 4px 0 4px 10px;
+	color: #555555 !important;
+}
+
+.tabSearchBar {
+	width: 100%;
+	background-color: #F3F7FA;
+	color: #555555 !important;
+}
+
+.tabSearchBar td {
+	padding: 0px 5px 0px 0px;
+}
+
+#popMessage {
+	color: #555555 !important;
+	font-family: 'Trebuchet MS', 'verdana', 'Georgia' !important;
+	font-size: 20px !important;
+}
+
+.cbutton {
+	border: none;
+	background: none;
+}
+
+.uibutton {
+	width: 84px;
+	border: 1px solid #999;
+	background-image: url(images/bg-button-grad.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+	background-color: #bbb;
+	color: #000 !important;
+	padding: 2px 8px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	text-shadow: white 0px 1px 0px;
+	margin: auto 6px auto 6px;
+	outline: none;
+	overflow: visible;
+	font-size: 14px!important;
+	font-family: Trebuchet MS, verdana, Georgia !important;
+}
+
+#tabduplicatecheck {
+	width: 100%;
+}
+
+#lblJobDesc {
+	width: 100%;
+}
+
+#cvDuplicateMess {
+	color: #555555 !important;
+	font-family: Trebuchet MS, verdana, Georgia !important;
+	font-size: 20px !important;
+	padding: 0px 10px 20px 0px;
+}
+
+.optionDuplicate {
+	padding: 20px 0px 0px 60px;
+}
+
+#btnSaveDuplicate {
+	font-size: 22px !important;
+}
+
+#btnForDuplicate {
+	padding: 40px 0px 0px 0px;
+	font-size: 20px !important;
+}
+
+#tdAcceptMessage,#tdRejectMessage {
+	padding: 10px 0px 0px 25px !important;
+}
+
+#strUserEmails0 {
+	width: 150px !important;
+}
+
+#waiting_message {
+	text-align: center;
+}

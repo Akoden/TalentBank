@@ -1,0 +1,67 @@
+<!-- Indices written at Wed, 16 Jun 2010 09:12:31 UTC -->
+<datastore-indexes autoGenerate="true">
+    <!-- Used 2 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="lgFileSize" direction="asc" />
+		<property name="strFileName" direction="asc" />
+		<property name="strUserEmail" direction="asc" />
+		<property name="dtReceivedDate" direction="asc" />
+		<property name="strFirstName" direction="asc" />
+		<property name="strLastName" direction="asc" />
+	</datastore-index>
+
+    <!-- Used 3 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strUserEmail" direction="asc" />
+		<property name="dtReceivedDate" direction="asc" />
+	</datastore-index>
+
+    <!-- Used 2 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strFirstName" direction="asc" />
+		<property name="dtReceivedDate" direction="desc" />
+	</datastore-index>
+
+    <!-- Used 2 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strLastName" direction="asc" />
+		<property name="dtReceivedDate" direction="desc" />
+	</datastore-index>
+
+    <!-- Used 4 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strFileName" direction="asc" />
+		<property name="dtReceivedDate" direction="desc" />
+	</datastore-index>
+
+    <!-- Used 3 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strFileName" direction="asc" />
+		<property name="dtReceivedDate" direction="asc" />
+	</datastore-index>
+
+    <!-- Used 15 times in query history -->
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strStatus" direction="asc" />
+		<property name="dtReceivedDate" direction="desc" />
+	</datastore-index>
+	<datastore-index kind="T_User" ancestor="false" source="auto">
+		<property name="strUserEmail" direction="asc" />
+		<property name="strFirstName" direction="asc" />
+		<property name="strLastName" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="T_CV" ancestor="false" source="auto">
+		<property name="strStatus" direction="asc" />
+		<property name="dtReceivedDate" direction="desc" />
+	</datastore-index>
+	<datastore-index kind="T_User" ancestor="false" source="auto">
+		<property name="strUserEmail" direction="asc" />
+		<property name="strFirstName" direction="asc" />
+		<property name="strLastName" direction="asc" />
+	</datastore-index>
+	<datastore-index kind="T_Job_Category" ancestor="false"
+		source="auto">
+		<property name="lg_Job_Category_ID" direction="asc" />
+		<property name="strJobCategoryName" direction="asc" />
+	</datastore-index>
+</datastore-indexes>
